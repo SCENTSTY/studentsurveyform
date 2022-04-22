@@ -12,7 +12,7 @@
     background-size:contain;
     background-position: center;
     width: 100vw;
-    height: 175vh;
+    height: 185vh;
     color: white;
 }
 .toptext{
@@ -162,7 +162,7 @@ input[type="checkbox"], input[type="radio"]{
 .finaltext{
     width: 100%;
     position: sticky;
-    margin-top: 150vh;
+    margin-top: 155vh;
 }
 .finaltext h4{
     font-weight: 400;
